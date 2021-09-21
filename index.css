@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.menubar{
+    background-color: rgb(49, 166, 212);
+    font-style: italic;
+    font-size: 40px;
+    color:ghostwhite;
+
+}
+#paragraph{
+    
+    font-style: italic;
+    font-size: 30px;
+    color: darkred;
+
+}
+table{
+    border-radius: 2px;
+    border-top: double;
+    background-color:#93B5C6;
+    font-size:25px;
+
+}
+th{
+    color: ghostwhite;
+    background-color:black;
+}
+tr:hover {
+    background-color: #16d8d8;
+    color: rgb(89, 0, 255);
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.menu1{ 
+    background-color: rgb(49,166,212);
+    font-style: italic;
+    font-size: 40px;
+    color: ghostwhite;
+}
+.content{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 143%;
+    transition: 0.4s;
+    max-inline-size: 400px;
+    align-content: center;
+    font-size: 30px;
+    font-style: italic;
+    color: ghostwhite;
+} 
+.container{
+    background-image: url(pledge.jpg);
+    color: crimson;
+    font-size: 30px;
+    font-style: italic;
+}    

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.nav-menu{
+    background-color: rgb(36, 212, 212);
+    font-size: 40px;
+    color:ghostwhite;
+    font-style: italic;
+}
+
+.header{
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    color: #7027A0;
+    font-size: 30px;
+}
+#menu{
+    
+    font-size:30px;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(112, 204, 19);
+}
+footer{
+    color: darkblue;
+    font-size: medium;
+    font-style: italic;
+}
